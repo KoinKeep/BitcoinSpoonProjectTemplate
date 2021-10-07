@@ -1,0 +1,4 @@
+*.dSYM
+code/objects/*.o
+/code/objects/all.a
+/binary
